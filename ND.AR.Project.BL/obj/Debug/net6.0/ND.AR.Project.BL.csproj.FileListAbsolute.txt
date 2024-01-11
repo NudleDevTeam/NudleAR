@@ -1,0 +1,15 @@
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\bin\Debug\net6.0\ND.AR.Project.BL.deps.json
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\bin\Debug\net6.0\ND.AR.Project.BL.dll
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\bin\Debug\net6.0\ND.AR.Project.BL.pdb
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\bin\Debug\net6.0\ND.AR.Project.Shared.dll
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\bin\Debug\net6.0\ND.AR.Project.Shared.pdb
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\ND.AR.Project.BL.csproj.AssemblyReference.cache
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\ND.AR.Project.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\ND.AR.Project.BL.AssemblyInfoInputs.cache
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\ND.AR.Project.BL.AssemblyInfo.cs
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\ND.AR.Project.BL.csproj.CoreCompileInputs.cache
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\ND.AR.Project.BL.csproj.CopyComplete
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\ND.AR.Project.BL.dll
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\refint\ND.AR.Project.BL.dll
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\ND.AR.Project.BL.pdb
+C:\Users\funanani\source\repos\AR-Education-Management-System\ND.AR.Project.BL\obj\Debug\net6.0\ref\ND.AR.Project.BL.dll

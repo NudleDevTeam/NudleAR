@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFkZks6lwpwl43GV/QXpCUnT78Cm/9/Snl/qy9oXGDORZabawA+u32iAbbOtXAi06U/yJ9n5f1vsuzl0EefX2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\funanani\\source\\repos\\AR-Education-Management-System\\ND.AR.Project.BL\\ND.AR.Project.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\funanani\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.17\\microsoft.aspnetcore.jsonpatch.5.0.17.nupkg.sha512",
+    "C:\\Users\\funanani\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.17\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.17.nupkg.sha512",
+    "C:\\Users\\funanani\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\funanani\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\funanani\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

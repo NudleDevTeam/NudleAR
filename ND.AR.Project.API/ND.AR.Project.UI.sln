@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ND.AR.Project.API", "ND.AR.Project.API.csproj", "{50829FC1-F0F0-4FFF-8309-7B490F2160DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ND.AR.Project.DA", "..\ND.AR.Project.DA\ND.AR.Project.DA.csproj", "{83AAED2F-811F-44DC-BCB6-7427BD2E63D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ND.AR.Project.BL", "..\ND.AR.Project.BL\ND.AR.Project.BL.csproj", "{3FEAE073-0561-4F08-85C3-D2CFFC00C76B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ND.AR.Project.Shared", "..\ND.AR.Project.Shared\ND.AR.Project.Shared.csproj", "{4FB5DE1E-EF2E-4D72-9747-A2E7925BF609}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ND.AR.Project.UI(1)", "..\ND.AR.Project.UI\", "{972EBBC1-2B0E-4272-AD74-EDD5A280A01A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51160"
+		Debug.AspNetCompiler.PhysicalPath = "..\ND.AR.Project.UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51160\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51160"
+		Release.AspNetCompiler.PhysicalPath = "..\ND.AR.Project.UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51160\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51160"
+		SlnRelativePath = "..\ND.AR.Project.UI\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50829FC1-F0F0-4FFF-8309-7B490F2160DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50829FC1-F0F0-4FFF-8309-7B490F2160DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50829FC1-F0F0-4FFF-8309-7B490F2160DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50829FC1-F0F0-4FFF-8309-7B490F2160DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AAED2F-811F-44DC-BCB6-7427BD2E63D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AAED2F-811F-44DC-BCB6-7427BD2E63D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AAED2F-811F-44DC-BCB6-7427BD2E63D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AAED2F-811F-44DC-BCB6-7427BD2E63D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FEAE073-0561-4F08-85C3-D2CFFC00C76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEAE073-0561-4F08-85C3-D2CFFC00C76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEAE073-0561-4F08-85C3-D2CFFC00C76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEAE073-0561-4F08-85C3-D2CFFC00C76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB5DE1E-EF2E-4D72-9747-A2E7925BF609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB5DE1E-EF2E-4D72-9747-A2E7925BF609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB5DE1E-EF2E-4D72-9747-A2E7925BF609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB5DE1E-EF2E-4D72-9747-A2E7925BF609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972EBBC1-2B0E-4272-AD74-EDD5A280A01A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972EBBC1-2B0E-4272-AD74-EDD5A280A01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972EBBC1-2B0E-4272-AD74-EDD5A280A01A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{972EBBC1-2B0E-4272-AD74-EDD5A280A01A}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD528E3A-A962-4309-BBA2-77506477CB82}
+	EndGlobalSection
+EndGlobal
